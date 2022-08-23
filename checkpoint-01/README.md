@@ -18,6 +18,7 @@ Instruções e requisitos do entregável
 ◆ Você pode acrescentar outros campos ao formulário para deixar a aplicação mais completa.
 
 5. Sobre os Cards:
+
     a. Os cards devem ter uma imagem e constar todas as informações previamente preenchidas no formulário. 
     b. O comportamento se dará de forma que as informações preenchidas sejam exibidas na seção de cards.
 
