@@ -20,9 +20,10 @@ function criarInputs(){
             if(document.querySelectorAll('input').values !== ''){
                 input.disabled = true
             } else {
-                input.disabled = false
+                input.removeEventListener('change')
             }
         }
+
     }
 }
 
@@ -32,4 +33,12 @@ criarInputs()
 
 const botao = document.createElement('button')
 botao.innerHTML = 'Enviar'
+botao.setAttribute('type', 'submit')
 document.body.appendChild(botao)
+
+//funcao enviar
+
+/* function enviar(){
+
+} */
+
