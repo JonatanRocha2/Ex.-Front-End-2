@@ -22,9 +22,9 @@ Instruções e requisitos do entregável
     b. O comportamento se dará de forma que as informações preenchidas sejam exibidas na seção de cards.
 
 Exemplos conceituais
-1. ![Exemplo de Formulário](img/readme-01.png)
+![Exemplo de Formulário](img/readme-01.png)
 
-2. ![Exemplo de Card](img/readme-02.png)
+![Exemplo de Card](img/readme-02.png)
 
 ## SOBRE A ENTREGA
 
