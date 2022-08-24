@@ -22,7 +22,9 @@ form.addEventListener('submit', function(event){
     
     //retirando os espaços
     
-    console.log(nome.trim(), sobrenome.trim())
+    let nomeSemEspaco = nome.trim()
+    let sobrenomeSemEspaco = sobrenome.trim()
+    console.log(nomeSemEspaco, sobrenomeSemEspaco)
     
     //substituindo 'a' por '@' e 'e' por '3'
     let replace1 = /a/gi
